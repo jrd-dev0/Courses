@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E806A9-5243-446B-A8E8-EA1D2CBD6F57}|Calculadora_Test\\Calculadora_Test.csproj|c:\\users\\sgti\\onedrive\\documentos\\estudos\\programming\\c#\\codingfuture_avanade.net\\exercicios_testes\\calculadora_xunit_tests\\calculadora_test\\calcservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E806A9-5243-446B-A8E8-EA1D2CBD6F57}|Calculadora_Test\\Calculadora_Test.csproj|solutionrelative:calculadora_test\\calcservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E109155F-73DC-4AF8-8C1A-75F4A47FA4FA}|Calculadora\\Calculadora.csproj|c:\\users\\sgti\\onedrive\\documentos\\estudos\\programming\\c#\\codingfuture_avanade.net\\exercicios_testes\\calculadora_xunit_tests\\calculadora\\services\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E109155F-73DC-4AF8-8C1A-75F4A47FA4FA}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\services\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E806A9-5243-446B-A8E8-EA1D2CBD6F57}|Calculadora_Test\\Calculadora_Test.csproj|c:\\users\\sgti\\onedrive\\documentos\\estudos\\programming\\c#\\codingfuture_avanade.net\\exercicios_testes\\calculadora_xunit_tests\\calculadora_test\\stringservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E806A9-5243-446B-A8E8-EA1D2CBD6F57}|Calculadora_Test\\Calculadora_Test.csproj|solutionrelative:calculadora_test\\stringservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E109155F-73DC-4AF8-8C1A-75F4A47FA4FA}|Calculadora\\Calculadora.csproj|c:\\users\\sgti\\onedrive\\documentos\\estudos\\programming\\c#\\codingfuture_avanade.net\\exercicios_testes\\calculadora_xunit_tests\\calculadora\\services\\stringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E109155F-73DC-4AF8-8C1A-75F4A47FA4FA}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\services\\stringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E109155F-73DC-4AF8-8C1A-75F4A47FA4FA}|Calculadora\\Calculadora.csproj|c:\\users\\sgti\\onedrive\\documentos\\estudos\\programming\\c#\\codingfuture_avanade.net\\exercicios_testes\\calculadora_xunit_tests\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E109155F-73DC-4AF8-8C1A-75F4A47FA4FA}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora_Test\\StringServiceTest.cs",
+              "RelativeDocumentMoniker": "Calculadora_Test\\StringServiceTest.cs",
+              "ToolTip": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora_Test\\StringServiceTest.cs",
+              "RelativeToolTip": "Calculadora_Test\\StringServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:34:48.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringService.cs",
+              "DocumentMoniker": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora\\Services\\StringService.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Services\\StringService.cs",
+              "ToolTip": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora\\Services\\StringService.cs",
+              "RelativeToolTip": "Calculadora\\Services\\StringService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:32:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:49:37.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora_Test\\CalcServiceTest.cs",
+              "RelativeDocumentMoniker": "Calculadora_Test\\CalcServiceTest.cs",
+              "ToolTip": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora_Test\\CalcServiceTest.cs",
+              "RelativeToolTip": "Calculadora_Test\\CalcServiceTest.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:45:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcService.cs",
+              "DocumentMoniker": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora\\Services\\CalcService.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Services\\CalcService.cs",
+              "ToolTip": "C:\\Users\\SGTI\\OneDrive\\Documentos\\Estudos\\Programming\\C#\\CodingFuture_Avanade.Net\\Exercicios_Testes\\Calculadora_xUnit_Tests\\Calculadora\\Services\\CalcService.cs",
+              "RelativeToolTip": "Calculadora\\Services\\CalcService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:37:07.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
