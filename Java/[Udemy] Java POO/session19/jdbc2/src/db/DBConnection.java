@@ -3,7 +3,9 @@ package db;
 import db.exceptions.DbException;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 
 public class DBConnection {
 	
@@ -23,8 +25,6 @@ public class DBConnection {
 
                 conn = DriverManager.getConnection(url, user, password);
                 
-                System.out.println("Conexão com o banco de dados estabelecida com sucesso!");
-                
             } catch (SQLException e) {
                 throw new DbException(e.getMessage());
             }
@@ -41,11 +41,37 @@ public class DBConnection {
             	
                 conn.close();
                 
-                System.out.println("Conexão com o banco de dados fechada.");
-                
             } catch (SQLException e) {
                 throw new DbException(e.getMessage());
             }
         }
+    }
+    
+    public static void closeStatement(Statement st) {
+    	
+    	if (st!= null) {
+    		
+    		try {
+			
+    			st.close();
+			
+    		} catch (SQLException e) {
+				throw new DbException(e.getMessage());
+			}
+    	}
+    }
+    
+    public static void closeResultSet(ResultSet rs) {
+    	
+	    if (rs!= null) {
+	    	
+	    	try {
+				
+    			rs.close();
+			
+    		} catch (SQLException e) {
+				throw new DbException(e.getMessage());
+			}
+    	}
     }
 }
