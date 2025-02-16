@@ -1,7 +1,7 @@
 ## Seção 22: Bônus: Projeto Web Services com Spring Boot e JPA / Hibernate
 
 Nesta seção, será criado um projeto completo de Web Services. O projeto inclui a construção de uma API RESTful, integração com banco de dados e boas práticas de desenvolvimento.
-O projeto será salvo no repositório de projetos [jrd-dev0/Projects](https://github.com/jrd-dev0/Projects/tree/main/Java/Public).
+O projeto será salvo no repositório de projetos [jrd-dev0/Projects](https://github.com/jrd-dev0/Projects/tree/main/Java/Public/WebServices-SpringBoot-JPA-Hibernate).
 
 ### Tecnologias Utilizadas e Tópicos Apresentados
 
